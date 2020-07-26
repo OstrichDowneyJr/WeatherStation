@@ -4,6 +4,7 @@ This Arduino scetch is build to show 4 weather measurments:
  - humidity 
  - pressure 
  - concentration of pm2 dust
+ 
  I *will* add graphic with all the connections later. 
  
  ### Components used in project:
